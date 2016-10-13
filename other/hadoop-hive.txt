@@ -1,0 +1,10 @@
+create table t_emp(
+	id int,
+	name string,
+	age int,
+	dept_name string
+) ROW FORMAT DELIMITED 
+	FIELDS TERMINATED BY ','
+STORED AS text;
+
+hive的数据文件在hdfs
