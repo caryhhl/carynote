@@ -1,0 +1,10 @@
+1 HBASE介绍及安装 尚学堂大数据学院 HBASE的服务体系结构遵从简单的主从服务器架构
+2 Docker的实战经验分享 尚学堂大数据学院  Pass从2008年万众瞩目到2012年的
+3 实时推荐系统的方式 尚学堂大数据学院 推荐系统介绍
+4 hive优化总结 尚学堂大数据学院 优化可以从几个方面着手
+5 hive分区partition 尚学堂大数据学院 1.在hive select查询中一般会扫描整个表内容
+6 HDFS分区partition 尚学堂大数据学院 1.存储超大文件，这里的“超大文件”是指几百回合
+7 cassandra和一致性hash 尚学堂大数据学院 在做java商城开发以及OA系统以及erp系统的时候
+8 Hbase详解--管理splitting 尚学堂大数据学院 除了让HBase自动切割你的Region，你也可以手动切割
+9 scala匿名函数详解 尚学堂大数据学院 如果匿名函数的期望类型具有scala.function
+10 使用FileSystem API读取数据 尚学堂大数据学院 文件在Hadoop文件系统中显示为一个Hadoop Path对象
